@@ -1,0 +1,12 @@
+[
+ {"id":"ucn_freddy_sprite","game":"custom-ultimate-custom-night","kind":"image","path":null,"verified":false},
+ {"id":"ucn_bonnie_sprite","game":"custom-ultimate-custom-night","kind":"image","path":null,"verified":false},
+ {"id":"ucn_chica_sprite","game":"custom-ultimate-custom-night","kind":"image","path":null,"verified":false},
+ {"id":"ucn_foxy_sprite","game":"custom-ultimate-custom-night","kind":"image","path":null,"verified":false},
+ {"id":"ucn_goldenfreddy_sprite","game":"custom-ultimate-custom-night","kind":"image","path":null,"verified":false},
+ {"id":"ucn_freddy_jumpscare","game":"custom-ultimate-custom-night","kind":"sound","path":null,"verified":false},
+ {"id":"ucn_bonnie_jumpscare","game":"custom-ultimate-custom-night","kind":"sound","path":null,"verified":false},
+ {"id":"ucn_chica_jumpscare","game":"custom-ultimate-custom-night","kind":"sound","path":null,"verified":false},
+ {"id":"ucn_foxy_jumpscare","game":"custom-ultimate-custom-night","kind":"sound","path":null,"verified":false},
+ {"id":"ucn_goldenfreddy_jumpscare","game":"custom-ultimate-custom-night","kind":"sound","path":null,"verified":false}
+]

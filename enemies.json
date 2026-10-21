@@ -1,0 +1,7 @@
+[
+ {"id":"freddy","name":"Freddy","base_enemy":"Zombie","behavior":"melee_walker","hp_mult":1.2,"sprite":"ucn_freddy_sprite","jumpscare":"ucn_freddy_jumpscare","biomes":["prisoners_quarters","promenade"],"verified":false},
+ {"id":"bonnie","name":"Bonnie","base_enemy":"Slasher","behavior":"fast_melee","hp_mult":0.9,"sprite":"ucn_bonnie_sprite","jumpscare":"ucn_bonnie_jumpscare","biomes":["promenade"],"verified":false},
+ {"id":"chica","name":"Chica","base_enemy":"Grenadier","behavior":"ranged_thrower","hp_mult":1.0,"sprite":"ucn_chica_sprite","jumpscare":"ucn_chica_jumpscare","biomes":["promenade","toxic_sewers"],"verified":false},
+ {"id":"foxy","name":"Foxy","base_enemy":"Bat","behavior":"fast_charger","hp_mult":0.8,"sprite":"ucn_foxy_sprite","jumpscare":"ucn_foxy_jumpscare","biomes":["toxic_sewers"],"verified":false},
+ {"id":"golden_freddy","name":"Golden Freddy","base_enemy":"Inquisitor","behavior":"teleporter_elite","hp_mult":1.8,"sprite":"ucn_goldenfreddy_sprite","jumpscare":"ucn_goldenfreddy_jumpscare","biomes":["toxic_sewers"],"verified":false}
+]

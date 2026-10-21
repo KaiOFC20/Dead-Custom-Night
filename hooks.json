@@ -1,0 +1,6 @@
+[
+ {"id":"enemy_spawn","game":"dead-cells","target":null,"route":"hashlink hook (community modding framework)","purpose":"swap spawned enemy for animatronic row","uses":["enemies"],"verified":false},
+ {"id":"enemy_sprite","game":"dead-cells","target":null,"route":"hashlink hook","purpose":"draw UCN sprite instead of base enemy sprite","uses":["assets"],"verified":false},
+ {"id":"player_death","game":"dead-cells","target":null,"route":"hashlink hook","purpose":"play jumpscare when an animatronic kills the player","uses":["assets"],"verified":false},
+ {"id":"test_mode","game":"dead-cells","target":null,"route":"recipe test.checks","purpose":"prove an animatronic spawned and rendered without a player","uses":["enemy_spawn"],"verified":false}
+]
